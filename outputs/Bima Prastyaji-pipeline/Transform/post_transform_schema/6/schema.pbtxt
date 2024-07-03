@@ -1,0 +1,396 @@
+feature {
+  name: "ADL_xf"
+  type: FLOAT
+  presence {
+    min_fraction: 1.0
+  }
+  shape {
+    dim {
+      size: 1
+    }
+  }
+}
+feature {
+  name: "Age_xf"
+  type: FLOAT
+  presence {
+    min_fraction: 1.0
+  }
+  shape {
+    dim {
+      size: 1
+    }
+  }
+}
+feature {
+  name: "AlcoholConsumption_xf"
+  type: FLOAT
+  presence {
+    min_fraction: 1.0
+  }
+  shape {
+    dim {
+      size: 1
+    }
+  }
+}
+feature {
+  name: "BMI_xf"
+  type: FLOAT
+  presence {
+    min_fraction: 1.0
+  }
+  shape {
+    dim {
+      size: 1
+    }
+  }
+}
+feature {
+  name: "BehavioralProblems_xf"
+  type: FLOAT
+  presence {
+    min_fraction: 1.0
+  }
+  shape {
+    dim {
+      size: 2
+    }
+  }
+}
+feature {
+  name: "CardiovascularDisease_xf"
+  type: FLOAT
+  presence {
+    min_fraction: 1.0
+  }
+  shape {
+    dim {
+      size: 2
+    }
+  }
+}
+feature {
+  name: "CholesterolHDL_xf"
+  type: FLOAT
+  presence {
+    min_fraction: 1.0
+  }
+  shape {
+    dim {
+      size: 1
+    }
+  }
+}
+feature {
+  name: "CholesterolLDL_xf"
+  type: FLOAT
+  presence {
+    min_fraction: 1.0
+  }
+  shape {
+    dim {
+      size: 1
+    }
+  }
+}
+feature {
+  name: "CholesterolTotal_xf"
+  type: FLOAT
+  presence {
+    min_fraction: 1.0
+  }
+  shape {
+    dim {
+      size: 1
+    }
+  }
+}
+feature {
+  name: "CholesterolTriglycerides_xf"
+  type: FLOAT
+  presence {
+    min_fraction: 1.0
+  }
+  shape {
+    dim {
+      size: 1
+    }
+  }
+}
+feature {
+  name: "Confusion_xf"
+  type: FLOAT
+  presence {
+    min_fraction: 1.0
+  }
+  shape {
+    dim {
+      size: 2
+    }
+  }
+}
+feature {
+  name: "Depression_xf"
+  type: FLOAT
+  presence {
+    min_fraction: 1.0
+  }
+  shape {
+    dim {
+      size: 2
+    }
+  }
+}
+feature {
+  name: "Diabetes_xf"
+  type: FLOAT
+  presence {
+    min_fraction: 1.0
+  }
+  shape {
+    dim {
+      size: 2
+    }
+  }
+}
+feature {
+  name: "Diagnosis_xf"
+  type: INT
+  presence {
+    min_fraction: 1.0
+  }
+  shape {
+    dim {
+      size: 1
+    }
+  }
+}
+feature {
+  name: "DiastolicBP_xf"
+  type: FLOAT
+  presence {
+    min_fraction: 1.0
+  }
+  shape {
+    dim {
+      size: 1
+    }
+  }
+}
+feature {
+  name: "DietQuality_xf"
+  type: FLOAT
+  presence {
+    min_fraction: 1.0
+  }
+  shape {
+    dim {
+      size: 1
+    }
+  }
+}
+feature {
+  name: "DifficultyCompletingTasks_xf"
+  type: FLOAT
+  presence {
+    min_fraction: 1.0
+  }
+  shape {
+    dim {
+      size: 2
+    }
+  }
+}
+feature {
+  name: "Disorientation_xf"
+  type: FLOAT
+  presence {
+    min_fraction: 1.0
+  }
+  shape {
+    dim {
+      size: 2
+    }
+  }
+}
+feature {
+  name: "EducationLevel_xf"
+  type: FLOAT
+  presence {
+    min_fraction: 1.0
+  }
+  shape {
+    dim {
+      size: 4
+    }
+  }
+}
+feature {
+  name: "Ethnicity_xf"
+  type: FLOAT
+  presence {
+    min_fraction: 1.0
+  }
+  shape {
+    dim {
+      size: 4
+    }
+  }
+}
+feature {
+  name: "FamilyHistoryAlzheimers_xf"
+  type: FLOAT
+  presence {
+    min_fraction: 1.0
+  }
+  shape {
+    dim {
+      size: 2
+    }
+  }
+}
+feature {
+  name: "Forgetfulness_xf"
+  type: FLOAT
+  presence {
+    min_fraction: 1.0
+  }
+  shape {
+    dim {
+      size: 2
+    }
+  }
+}
+feature {
+  name: "FunctionalAssessment_xf"
+  type: FLOAT
+  presence {
+    min_fraction: 1.0
+  }
+  shape {
+    dim {
+      size: 1
+    }
+  }
+}
+feature {
+  name: "Gender_xf"
+  type: FLOAT
+  presence {
+    min_fraction: 1.0
+  }
+  shape {
+    dim {
+      size: 2
+    }
+  }
+}
+feature {
+  name: "HeadInjury_xf"
+  type: FLOAT
+  presence {
+    min_fraction: 1.0
+  }
+  shape {
+    dim {
+      size: 2
+    }
+  }
+}
+feature {
+  name: "Hypertension_xf"
+  type: FLOAT
+  presence {
+    min_fraction: 1.0
+  }
+  shape {
+    dim {
+      size: 2
+    }
+  }
+}
+feature {
+  name: "MMSE_xf"
+  type: FLOAT
+  presence {
+    min_fraction: 1.0
+  }
+  shape {
+    dim {
+      size: 1
+    }
+  }
+}
+feature {
+  name: "MemoryComplaints_xf"
+  type: FLOAT
+  presence {
+    min_fraction: 1.0
+  }
+  shape {
+    dim {
+      size: 2
+    }
+  }
+}
+feature {
+  name: "PersonalityChanges_xf"
+  type: FLOAT
+  presence {
+    min_fraction: 1.0
+  }
+  shape {
+    dim {
+      size: 2
+    }
+  }
+}
+feature {
+  name: "PhysicalActivity_xf"
+  type: FLOAT
+  presence {
+    min_fraction: 1.0
+  }
+  shape {
+    dim {
+      size: 1
+    }
+  }
+}
+feature {
+  name: "SleepQuality_xf"
+  type: FLOAT
+  presence {
+    min_fraction: 1.0
+  }
+  shape {
+    dim {
+      size: 1
+    }
+  }
+}
+feature {
+  name: "Smoking_xf"
+  type: FLOAT
+  presence {
+    min_fraction: 1.0
+  }
+  shape {
+    dim {
+      size: 2
+    }
+  }
+}
+feature {
+  name: "SystolicBP_xf"
+  type: FLOAT
+  presence {
+    min_fraction: 1.0
+  }
+  shape {
+    dim {
+      size: 1
+    }
+  }
+}
