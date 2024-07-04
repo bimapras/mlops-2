@@ -1,7 +1,7 @@
 # Submission 2: Alzheimer's Disease Detection
 Nama: Bima Prastyaji
 
-Username dicoding: Bima Prastyaji
+Username dicoding: bimapras
 
 | | Deskripsi |
 | ----------- | ----------- |
